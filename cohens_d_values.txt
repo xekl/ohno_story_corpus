@@ -1,0 +1,27 @@
+Cohen's D for D1 (con) vs (base): -0.701
+Cohen's D for D1 (con) vs (non): 0.038
+Cohen's D for D1 (base) vs (non): 0.758
+
+Cohen's D for D2 (con) vs (base): -0.630
+Cohen's D for D2 (con) vs (non): 0.276
+Cohen's D for D2 (base) vs (non): 0.944
+
+Cohen's D for D3 (con) vs (base): -0.094
+Cohen's D for D3 (con) vs (non): 0.885
+Cohen's D for D3 (base) vs (non): 0.984
+
+Cohen's D for D4 (con) vs (base): -0.303
+Cohen's D for D4 (con) vs (non): 0.461
+Cohen's D for D4 (base) vs (non): 0.838
+
+Cohen's D for D5 (con) vs (base): -0.180
+Cohen's D for D5 (con) vs (non): 0.147
+Cohen's D for D5 (base) vs (non): 0.311
+
+Cohen's D for D6 (con) vs (base): 0.811
+Cohen's D for D6 (con) vs (non): 0.121
+Cohen's D for D6 (base) vs (non): -0.750
+
+Cohen's D for D7 (con) vs (base): 0.633
+Cohen's D for D7 (con) vs (non): 0.310
+Cohen's D for D7 (base) vs (non): -0.270
