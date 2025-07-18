@@ -4,7 +4,7 @@ The survey was designed in Limesurvey, with one page per story, containing
 - then the mandatory agreement rating for each of the seven dimensions,
 - and lastly an optional field for free-text commentary.
 
-![alt text](limesurvey_screenshot.png "Example view of the questionnaire")
+![alt text](study_screenshot.png "Example view of the questionnaire")
 
 The opening participant instructions were: 
 
